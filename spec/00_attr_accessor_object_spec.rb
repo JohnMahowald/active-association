@@ -3,7 +3,7 @@ require 'active_record_lite/00_attr_accessor_object'
 describe AttrAccessorObject do
   before(:all) do
     class MyAttrAccessorObject < AttrAccessorObject
-      my_attr_accessor :x, :y
+      lite_attr_accessor :x, :y
     end
   end
 
