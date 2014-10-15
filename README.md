@@ -2,7 +2,7 @@
 
 ActiveAssociation aims to recreate the basic functionaly of Rails Active Record. It is an exercise in meta programming and understanding the how Active Record is able to dynamically create active record relations and simplify database interactions. 
 
-This project was built in pair with [Ruby on Sails](https://github.com/JohnMahowald/active-association) where I build the basic functionality of Rails' controller, router & server. To view the project, check out the [repo here](https://github.com/JohnMahowald/active-association).
+This project was built in pair with [Ruby on Sails](https://github.com/JohnMahowald/ruby-on-sails) where I build the basic functionality of Rails' controller, router & server. To view the project, check out the [repo here](https://github.com/JohnMahowald/ruby-on-sails).
 
 ## Key Features:
 
